@@ -1,14 +1,5 @@
-<div id="badges">
-  <a href="https://vk.com/ineedhelphere">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte Badge" width="90" height="40"/>
-  </a>
-</div>
-
----
-
 ### :fire: Statistics :
 [![GitHub Streak](https://streak-stats.demolab.com?user=bagugus&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagugus)](https://github.com/bagugus/github-readme-stats)
 
 ---
 
