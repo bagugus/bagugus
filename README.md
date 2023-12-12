@@ -1,5 +1,5 @@
 ### :fire: Statistics :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagugus&show_icons=true&theme=transparent&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagugus&show_icons=true&theme=great-gatsby&rank_icon=github)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
