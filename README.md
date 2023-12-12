@@ -1,6 +1,5 @@
 ### :fire: Statistics :
-[![GitHub Streak](https://streak-stats.demolab.com?user=bagugus&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagugus&show_icons=true&theme=transparent)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
